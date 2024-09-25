@@ -1,4 +1,5 @@
 mkdocs-material
 mkdocs-link-marker
+mkdocs-ezlinks-plugin
 markdown-emdash
 fontawesome-markdown
