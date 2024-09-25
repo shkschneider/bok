@@ -1,0 +1,4 @@
+mkdocs-material
+mkdocs-link-marker
+markdown-emdash
+fontawesome-markdown
